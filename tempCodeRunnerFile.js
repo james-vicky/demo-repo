@@ -1,0 +1,1 @@
+const { name, courseCount, role } = MyUser;
